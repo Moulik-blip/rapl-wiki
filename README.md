@@ -16,6 +16,7 @@
      - Polls/Surveys
      - Assignment
      - Library
+     - Feedback
    - Other Cases
 
 
@@ -313,6 +314,86 @@ _**The expert in anything was once a beginner**_
    - **Download**
    
      Click on the download option, to download the file if it's enabled.
+    
+#### 13. Feedback
+
+   _**In RapL, feedback is considered as a way to share and improve the knowledge gap with human touch. It can be an encouragement, a praise or an improvement feedback.**_
+      
+   - **Feedback templates**
+   
+     Feedback template is a blueprint for creating the feedback. It has multiple properties to define the nature of the feedback template.
+     
+     **Properties**
+     
+     - **name** - Name of the feedback template.
+
+     - **description** (*optional*) - Details of the feedback template.
+
+     - **status** - Current status of the feedback template.
+
+     - **DRAFT***- Preliminary version of the template.
+
+     - **ACTIVE** - Ready to use template.
+
+     - **ARCHIVED** - Template archived to avoid future use.
+
+     **Status transition**:
+
+     1. Only DRAFT template can be deleted.
+
+     2. Activated templates can not be deleted, but they can be archived. The reason why we archive instead of deleting the template is to allow administrators to clone the template in future.
+     
+   - **Questions**
+
+     Questions allow feedback respondents to provide answers to system understandable format. Feedback allows us to create multiple types of questions based on the need.
+
+   - **Question Family**
+     
+     Templates can have one or more questions. Current template version supports several open-ended and closed-ended question types and more question types can be added later based on the need. The settings within a question allow you to control the type of data the question will collect.
+     
+     - **Open Ended Question** - 
+     
+      *1. Comment box question* - The Comment Box question allows you to collect long open-ended responses.
+      
+      *2. Multiple Textboxes question* - The multiple textboxes question allows us to collect multiple open-ended answers with a single question.
+
+     - **Closed Ended Question** -
+      
+      *1. Multiple choice question* -Multiple choice (radio) is a simple closed-ended question type and lets respondents choose only one answer from the list of choices. Administrators can use Others textbox (optional) to allow respondents to answer if they want to provide an alternate response that is not on the choice list. Multiple choice questions require at least two choices.
+      
+      *2. Checkbox question* - Checkbox is a simple closed-ended question type and lets respondents choose one or more answers from the list of choices. Administrators can use **Others** textbox (optional) to allow respondents to answer if they want to provide an alternate response that is not on the choice list. Multiple choice questions require at least two choices.
+
+     - **File Upload** - The file upload question allows the respondent to upload a binary file as an answer. Currently, we support only PDF.
+
+   - **Tags**
+     
+     Tags are descriptive keywords which help to categorise and search the content. Feedback templates can have multiple tags and tags are case-sensitive.
+
+   - **Feedback Properties**
+
+     Using a feedback template, feedback are created and assigned to Groups or Roles or both. By default, feedback will inherit the properties from the template but properties can be updated by the administrator on the time of creation except for the questions.
+     
+     - **Properties** -
+
+      1. *template* - Active feedback template selection.
+      2. *context* - Defines whether feedback should be assigned for nodes or bundles.
+      3. *name* - Name of the feedback template.
+      4. *description* (optional) - Details of the feedback template.
+      5. *closing date* (optional) - Assigned user list will be frozen when feedback reaches the closing date.
+      6. *acknowledgement*
+        - *required* - User who receives the feedback should acknowledge the feedback.
+        - *due_by_days* (optional) - User should acknowledge the feedback before 'N' no. of days from the feedback submission. This property will be considered only when required property is enabled. For example, If the feedback given on Monday and due_by_days value is 5 days, then the user should acknowledge the feedback by Friday.
+      7. *notifications*
+        - *on_agree*  (optional) - Send notifications to respondent when the feedback is agreed by receiver. Default: false.
+        - *on_disagree* (optional) - Send notifications to respondent when the feedback is disagreed by receiver. Default: true.
+
+   - **Respondents**
+
+     There will be a feedback section under assigned nodes & bundles, the respective administrators of the nodes & bundles will act as a respondent for their users. Respondents will fill the answers and submit the feedback for every individual user and respondent has to complete the same task for all users assigned to the feedback.
+     
+   - **User acknowledgement**
+
+     When the feedback acknowledgement is enabled, the user should Agree or Disagree the feedback with optional text remarks. If due_by_days deadline is set, then the user should complete the acknowledgment before the deadline. After the deadline, the user cannot acknowledge the feedback. Users will be able to change the acknowledgement anytime (within due_date if due_by_days is set).
 
 ### Other Use cases
 
