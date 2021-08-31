@@ -301,7 +301,7 @@ _**The expert in anything was once a beginner**_
    - **Library module**
    
      Queue of files will be shown to you which are assigned  (video, audio, image, pdf, scorm)
-     You can see view all button in top right corner of library module where he can find all the assigned file
+     You can see view all button in top right corner of library module where you can find all the assigned file
    
    - **Filter**
    
@@ -314,6 +314,12 @@ _**The expert in anything was once a beginner**_
    - **Download**
    
      Click on the download option, to download the file if it's enabled.
+     
+   - **Multilingual File Support**
+
+     Users can go to My Account -> Language and change their language preference therein from 23 different available languages, latest being Czech Republic.
+     
+     One library file can have a source file / thumbnail associated to each supported language just like title / description. Thumbnail can be added / removed for any language at any point of time. Title, description of a supported language can be updated at any point time and is mandatory for uploading source / thumbnail for that language. Default language will be shown for title / description / thumbnail when the same is not available in the library file (user selected language).
     
 #### 13. Feedback
 
