@@ -144,10 +144,14 @@ _**Got 2 Mins? Variety of custom-made Activities awaits you.**_
 - **Completed Polls** - User can see their completed polls in this section
 - **Completed Assignments** - User can see their completed assignments here
 
-#### 7. Bookmark
+#### 7. History
 
-- **Bookmarked Files** - Users can view their bookmarked library contents here
-- **Bookmarked Questions** - Users can view their bookmarked questions of any quiz for future reference and revision 
+- **Viewed Files** - Users can view their viewed library contents here
+- **Completed Quizzes** - Users can view their completed quizzes for future reference and revision
+- **Completed Tests** - Users can view their completed tests for future reference and revision
+- **Completed Polls** - Users can view their completed quizzes for future reference and revision 
+- **Completed Assignments** - Users can view their completed quizzes for future reference and revision
+
 
 #### 8. Quiz
 
@@ -307,17 +311,13 @@ _**The expert in anything was once a beginner**_
    
      By using the  'sort by' feature in the top left where you can filter out files (not viewed, recently viewed, newly added)
    
-   - **Bookmark**
-   
-     By clicking on the bookmark option you can view the files and visit them later as per your convenience.
-
    - **Download**
    
      Click on the download option, to download the file if it's enabled.
      
    - **Multilingual File Support**
 
-     Users can go to My Account -> Language and change their language preference therein from 23 different available languages, latest being Czech Republic.
+     Users can go to My Account -> Language and change their language preference therein from 23 different available languages, latest being Czech Republic. This will change the Library File's translation support as well.
      
      One library file can have a source file / thumbnail associated to each supported language just like title / description. Thumbnail can be added / removed for any language at any point of time. Title, description of a supported language can be updated at any point time and is mandatory for uploading source / thumbnail for that language. Default language will be shown for title / description / thumbnail when the same is not available in the library file (user selected language).
     
