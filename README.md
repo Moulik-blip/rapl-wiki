@@ -17,20 +17,27 @@
      - Assignment
      - Library
      - Feedback
+     - Certificates
    - Other Cases
 
 
 ## Introduction
 
-**_Anyone who has an experience of company training knows how tedious it is to get one-self to go through the unengaging sessions and retain whatever it is that has been discussed a few hours back._**
+**_Anyone who has experience of company training knows how tedious it is to go through unengaging sessions and retain what was discussed a few hours back.
+._**
 
-At RapL, we don’t just believe that learning should be engaging, interactive and bite sized, we know how much it is effective too. Its normal to have knowledge retention to 20% but with Microlearning this pushes past 90%. And that is where RapL comes in with the Mantra ‘Micro-Learning Reinforced’. Based on the principle ‘Less is more’, our approach is as long as necessary & as short as possible.
+![image](https://user-images.githubusercontent.com/83389458/205908226-004a4b95-b637-439e-b3ad-1de6a0be5a7b.png)
 
-Your learnings are revisited and retested till the knowledge gaps are bridged and you are an expert in the topic. Our flipped and confidence-based learning model is presented via real scenarios which makes learning fun plus engaging. The AI driven learning added with adaptiveness and personalization allows you to skip concepts you already know and focus on the weaker aspects handing you the control of your learning pace. Learning is now possible without disrupting the working shifts, because 3-5 mins spent on this mobile front approach where neither location nor language is a constraint helps you strengthen and retain your knowledge base. 
+At RapL, we don’t just believe that learning should be engaging, interactive and bite-sized, we recognise its effectiveness. Knowledge retention is usually at 20%, but with Microlearning this pushes past 90%. This ties into RapL's mantra: ‘Micro-Learning Reinforced’. Based on the principle ‘Less is more’, our approach is as long as necessary & as short as possible.
+
+Your learnings are revisited and retested until knowledge gaps are bridged and you become an expert in the topic. Our flipped and confidence-based learning model is presented via real scenarios, which makes learning fun and engaging. The AI driven learning, including adaptiveness and personalization, allows you to skip concepts you already know and focus on weaker aspects. We give you the control over your learning pace. Learning is also possible without disrupting working shifts. 3-5 mins spent on your mobile, where neither location nor language are a constraint, helps strengthen and retain your knowledge.
+ 
 
 ## Vision
 
 **_In today’s fast-paced, distracting, and multitasking world, how will you stay ahead in the game of corporate learning and personal development?_**
+
+![image](https://user-images.githubusercontent.com/83389458/205908451-52e5f306-2f1d-432d-90af-06fde9d76e30.png)
 
 With an aim of empowering each one of you to be your best, we started our journey and have accelerated business impact via a learning and development approach. Our Vision remains to drive the bottom line of businesses irrespective of the domain it belongs to.
 
@@ -46,17 +53,23 @@ Along with experiencing an immersive learning, you will also be rewarded in the 
 
 _**RapL assists a new user in a variety of ways -**_
 
-- **Org Name** - While logging in the first time, the user will be asked to enter the Organization name (the name of the organisation they belong to)
+- **Org Name** - While logging in the first time, the user will be asked to enter the organization name (the name of the organization they belong to).
 
-![Asset 1](https://user-images.githubusercontent.com/83389458/116510488-a0df5c00-a8e2-11eb-8525-4ae231832ddd.png)
+![image](https://user-images.githubusercontent.com/83389458/205909004-7f95bdb4-1327-4f7b-9db0-6a5772b81f84.png)
 
-- **First Sign in** - While signing in the first time, user must enter their id (email / mobile number), complete OTP verification and setup their password
+- **First Sign in** - While signing in the first time, the user must enter their ID (email/mobile number), Complete OTP verification and Setup their password
 
-![Asset 7](https://user-images.githubusercontent.com/83389458/116511015-70e48880-a8e3-11eb-852f-8f2d4eb2b4ba.png)
+![image](https://user-images.githubusercontent.com/83389458/205909265-dc42391b-78c2-4393-8e9b-deb40f4f5efb.png)
+
+![image](https://user-images.githubusercontent.com/83389458/205909312-e90feed0-ef06-453a-87c4-ff1f34bea947.png)
+
 
 - **First Sign up** - Users who are not pre-registered must "Sign Up" as a new User by entering their name and other credentials followed by OTP validation
 
 - **Language** - First time sign-in users must select the preferred languages from the list of languages supported by that Org (Each org can select languages they support from the master list of languages supported by RapL)
+
+![image](https://user-images.githubusercontent.com/83389458/205909395-d2bb9508-48fb-4547-9a10-5bb28718b356.png)
+
 
 - **Post Sign in** - User will be on the Homepage where they can see Quiz, Library and other tasks and resources assigned to them based on their Group(s) or Role(s)
 
@@ -68,14 +81,18 @@ _**For an already existing user, RapL has the following privileges,**_
 
 - **Login** - Users can login through their credentials if it's already saved. If not, then users can choose/enter their organisation name, mobile number/email address (depending on the registered contact) and the password to sign in.
 
+![image](https://user-images.githubusercontent.com/83389458/205909490-a9e322bd-ba6e-49b7-909a-68e345c01348.png)
+
+
 - **Forget Password** - If a user forgets the password, he/she can create a new password once he/she clicks on the "Forget password" button, which will redirect to the OTP page where the user can enter the OTP sent to their registered mail id.
 
-![Asset 6 5](https://user-images.githubusercontent.com/83389458/116516395-3252cc00-a8eb-11eb-8d57-ce369552af77.png)
-
+![image](https://user-images.githubusercontent.com/83389458/205909557-746df849-95d3-477e-8766-40fd8b3342c0.png)
 
 #### 3. Homepage
 
 _**Got 2 Mins? Variety of custom-made Activities awaits you.**_
+
+![image](https://user-images.githubusercontent.com/83389458/205909630-7f75a85f-6939-4ad2-8816-a17f64730ea1.png)
 
 - **Activities in the Homepage**
 
@@ -95,9 +112,10 @@ _**Got 2 Mins? Variety of custom-made Activities awaits you.**_
   Level Up for your corporate training with gamification!
 
   **Score Points and Learn** – A summary of all the points you have earned till date appears on the top right corner of the Screen
-  **Earn Badges and Learn** - A summary of till date Badges earned for your accomplishments is displayed along with the points 
+  ![image](https://user-images.githubusercontent.com/83389458/205909821-ace21c38-6fa2-4671-8e74-8be6adf78560.png)
 
-  ![1619536053119](https://user-images.githubusercontent.com/83389458/116519201-d5591500-a8ee-11eb-94c2-5eb02965a757.jpg)
+  **Earn Badges and Learn** - A summary of till date Badges earned for your accomplishments is displayed along with the points 
+![image](https://user-images.githubusercontent.com/83389458/205909900-4d14f34a-6e0c-4b80-a34d-2087e465e849.png)
 
 - **Bottom Menu**
  
@@ -108,8 +126,7 @@ _**Got 2 Mins? Variety of custom-made Activities awaits you.**_
   - **History** : Files viewed, quizzes, Assignments, polls and surveys taken
   - **Bookmark** : Save questions and reference files to revisit your core concepts
   - **Profile Page** : Edit your profile, report an issue, leaderboard Ranking can be found under this section. 
-
-  ![1619536053095](https://user-images.githubusercontent.com/83389458/116519362-076a7700-a8ef-11eb-9217-bd7fd91e59ee.jpg)
+![image](https://user-images.githubusercontent.com/83389458/205910038-a17d1b57-db2e-48f1-8287-152611b15f71.png)
 
 - **Help**
 
@@ -118,19 +135,29 @@ _**Got 2 Mins? Variety of custom-made Activities awaits you.**_
 #### 4. Alert
 
    Real time notifications giving you activity alerts such as Active quizzes, polls, surveys so on and so forth in addition to new team updates and much more.
+![image](https://user-images.githubusercontent.com/83389458/205910141-a9e5a025-6a32-4a5c-b292-bfb262eeaf35.png)
 
 #### 5. Profile
 
+![image](https://user-images.githubusercontent.com/83389458/205910219-9ec18bb5-e9fa-4194-a6ba-300fdb2cc1d0.png)
+
 - **Avatar Icon** - You can see your profile picture on the top of the screen
 - **Points & Badges** - Total points and badges earned by you are displayed below
+- ![image](https://user-images.githubusercontent.com/83389458/205910306-ef90752e-55c0-45e9-88fa-c6f45ba9d909.png)
 - **Individual Leaderboard** - Overall ranking based on Role or Group is displayed which will be updated every 15 days
 - **Team Leaderboard** -  Overall ranking based on Group is displayed which will be updated every 15 days
+- ![image](https://user-images.githubusercontent.com/83389458/205910400-674c0920-8bc0-4d86-8737-a662e8c60748.png)
 - **Badges** - No of Earned Badges till date 
+- ![image](https://user-images.githubusercontent.com/83389458/205910464-6a1560bc-61f3-4a44-9919-4bd825d16190.png)
 - **My Details** - can view/edit your personal details like name, mobile number, language and password
+- ![image](https://user-images.githubusercontent.com/83389458/205910533-8fd0ce1d-c551-4826-a0ed-96645fcab032.png)
 - **Change Password** - Users can change your password by entering the old password once you click password option on "My Details" page
+- ![image](https://user-images.githubusercontent.com/83389458/205910595-b211f96a-4534-4d46-bce9-7d9f4716e189.png)
 - **Report Issue** - Users can report your issue on module wise (Quiz, Points, Leaderboard & Badges, Content, Test) which is in FAQ format.
 - **Write to us** - Help us improve, you can write directly let us know "write to us" button
+- ![image](https://user-images.githubusercontent.com/83389458/205910662-5f8c0da9-a510-469c-bb88-5d52f6b19846.png)
 - **About** - can see the RapL details like App version, Privacy, Terms & Conditions, Notification & Push notification registration and can give RapL rating as well
+- ![image](https://user-images.githubusercontent.com/83389458/205910737-fde8f91f-042f-444a-8a60-b62dcdd08565.png)
 - **App Version** - If app was not up to date or if you missed to update the app, you will be notified when you click on "About RapL" in your profile, via  "Update available" text near to app version details
 - **Log Out** - Users can find logout option below app version
 
@@ -139,10 +166,15 @@ _**Got 2 Mins? Variety of custom-made Activities awaits you.**_
 #### 6. Activities
 
 - **Viewed Files** - In the viewed files, user can see their viewed library contents and make use of it in future for reference
+- ![image](https://user-images.githubusercontent.com/83389458/205910856-fef6bc8d-9667-4348-b98d-93b7d535df7e.png)
 - **Completed Quiz** - User can see their completed quizzes and review the questions and can reinforce knowledge from the answer rationales
-- **Completed Tes**t - User can see their completed tests and get their test summary in their top right corner
+- ![image](https://user-images.githubusercontent.com/83389458/205910931-d5bfe60a-7ef4-4360-a357-93b6291474d6.png)
+- **Completed Test** - User can see their completed tests and get their test summary in their top right corner
+- ![image](https://user-images.githubusercontent.com/83389458/205911007-f545c28d-fa61-4637-a004-d27ef0dda78b.png)
 - **Completed Polls** - User can see their completed polls in this section
+- ![image](https://user-images.githubusercontent.com/83389458/205911084-cd48ff11-5d68-4f7b-a35f-6cd730eefa37.png)
 - **Completed Assignments** - User can see their completed assignments here
+- ![image](https://user-images.githubusercontent.com/83389458/205911150-c29f7acf-09f1-4937-9fcd-226009a84b0f.png)
 
 #### 7. Bookmark
 
@@ -158,19 +190,25 @@ _**The expert in anything was once a beginner**_
   On the home page, the top right corner of the Quiz section fills with color code namely Green, Yellow, Red and Grey.
 
   - **Green** – You are on time for the Quiz (No Backlogs to be cleared)
+  - ![image](https://user-images.githubusercontent.com/83389458/205911222-4b7b039a-c5f7-4f42-a6e5-a79dfd011209.png)
   - **Yellow** – You are running late and has the previous day’s backlog to be cleared
+  - ![image](https://user-images.githubusercontent.com/83389458/205911280-e85476a2-12d2-400a-925f-c8177029efab.png)
   - **Red** - You are late and has 2 day’s backlog which needs to be cleared. (Please note, you would be receiving no questions until the backlog is cleared)
+  - ![image](https://user-images.githubusercontent.com/83389458/205911335-424b11d5-84ac-4cac-bb86-67ca1a1b2356.png)
   - **Grey** – You have attempted all the questions for a topic today.
+  - ![image](https://user-images.githubusercontent.com/83389458/205911383-89e2c378-fb4a-40bd-a2dd-814c5680a0ee.png)
 
-  All these colors would have number of Questions waiting for you.
+Within each colour, you can see the number of questions each quiz has.
   
 - **No. of questions mastered in a topic**
 
-  A progression bar, indicating the number of Questions mastered by you for a particular topic would appear beneath the topic name. Would help you keep a track of your progress over time.
+  A progress bar, indicating the number of questions mastered by you for a particular topic, will appear beneath the topic name. This will help you keep track of your progress over time.
+  ![image](https://user-images.githubusercontent.com/83389458/205911747-459d094c-26af-4ef4-b7f7-0a8805dc27d4.png)
   
 - **Take Quiz**
 
   An icon enabling you to start with the quiz appears in blue as ‘TAKE QUIZ’ Alongside which a Book icon would be your go to place for refreshing your memory on concepts.
+  ![image](https://user-images.githubusercontent.com/83389458/205911840-f90a535e-5465-43a1-be6a-b6801fe5b317.png)
 
 - **Question Attempt**
 
@@ -186,25 +224,29 @@ _**The expert in anything was once a beginner**_
   
   The Questions would be scenario based for which you are expected to put yourself in the Employee’s/Customer’s Shoes and be thoughtful while answering.
   
-  ![Picture11](https://user-images.githubusercontent.com/83389458/116522555-f3287900-a8f2-11eb-8ac8-e09cfc963967.png)
+![image](https://user-images.githubusercontent.com/83389458/205911942-e370a9f4-b137-4622-9d0f-3fe82b45c655.png)
 
   This example of a product knowledge resource illustrates how a well-designed, responsive digital resource can put practical performance support literally in the palm of your hand.
 
 - **Confidence level**
 
-  Post choosing an answer, the level to which you are confident about your answer is tested. 
+After choosing an answer, the level of your confidence in answering is tested.
+![image](https://user-images.githubusercontent.com/83389458/205912100-8cee5f9d-e07f-4729-b17d-f8bb30fbcfe4.png)
 
 - **Question result and rationale**
 
-  After attempting the quiz and taking the confidence level test, you would be presented with the answer to the Question.
-  
-  Along with the correct answer and the chosen one, you would also see a logical reasoning behind the answer being right/wrong so you not only learn the ‘What’ part but also the ‘Why’ part.
+  After attempting the quiz and taking the confidence level test, you will be presented with the answer to the question.
+  Along with the correct answer and your selected choice, you will also see a logical reason for why your choice is right/wrong. You not only learn ‘What’ but also ‘Why’.
+![image](https://user-images.githubusercontent.com/83389458/205912389-8116fb6c-3135-4f97-a283-5fdec86fb398.png)
+![image](https://user-images.githubusercontent.com/83389458/205912457-b72f608e-8ab3-4c71-8a28-06b1cc4e5241.png)
 
 - **Next Question**
 
   Post understanding the concept and reasoning behind a given Scenario, you would be taken to the next scenario, for which an icon at the bottom of the Screen called ‘NEXT Question’ would appear. 
 
 #### 9. Test
+
+![image](https://user-images.githubusercontent.com/83389458/205912588-3084a3f7-df4a-40e9-bff7-e0bbf22fc1ed.png)
 
 - **Queue of Test**
 
@@ -248,7 +290,11 @@ _**The expert in anything was once a beginner**_
  
 - **Summary**
 
-  On the top right corner “SUMMARY” is displayed by clicking on which you can again see the popup of your correct, incorrect, and unanswered responses.
+   On the top right corner, “SUMMARY” is displayed. Click on this to see the popup of your correct, incorrect, and unanswered responses.
+   
+- **Timed Tests**
+
+   Timed tests are added to add the duration of the tests once a user begins attempting the test.
   
 - **Close**
 
@@ -274,6 +320,8 @@ _**The expert in anything was once a beginner**_
 
 
 #### 11. Assignment
+
+![image](https://user-images.githubusercontent.com/83389458/205913096-506ba0f5-3d76-4a4f-9fc2-233a2abf4103.png)
 
    - **Assignment module**
 
@@ -302,7 +350,8 @@ _**The expert in anything was once a beginner**_
    
      Queue of files will be shown to you which are assigned  (video, audio, image, pdf, scorm)
      You can see view all button in top right corner of library module where he can find all the assigned file
-   
+   ![image](https://user-images.githubusercontent.com/83389458/205913429-f88654b4-3a66-4b95-8774-5355dd450f5c.png)
+
    - **Filter**
    
      By using the  'sort by' feature in the top left where you can filter out files (not viewed, recently viewed, newly added)
@@ -394,6 +443,21 @@ _**The expert in anything was once a beginner**_
    - **User acknowledgement**
 
      When the feedback acknowledgement is enabled, the user should Agree or Disagree the feedback with optional text remarks. If due_by_days deadline is set, then the user should complete the acknowledgment before the deadline. After the deadline, the user cannot acknowledge the feedback. Users will be able to change the acknowledgement anytime (within due_date if due_by_days is set).
+     
+### 14. Certificates
+
+   In RapL, Certificates are reliable proof that training and skill development was successfully completed. It serves as a documentation of success and/or adherence to the professional norms. Additionally, it supports businesses' attempts to reskill and upskill their workforce.
+- It helps learners to validate their knowledge and enhances credibility and confidence.
+- Only on requests from organizations is this functionality available.
+- There may only be one Certificate template configured per tenant organization.
+- Certificate issues can be configured only on  learning path completion,Qualifying the test and quiz mastery.
+- In V1, certificate issuance can only be configured based on quiz mastery and completion of learning paths.
+- All certificates generated are listed.
+
+![image](https://user-images.githubusercontent.com/83389458/205913974-c9e7596a-a716-4d8c-88ff-877849a657e9.png)
+
+Note : This capability is available for free trial use for the first 1000 certificates. Beyond that, it will cost Rs. 4 for each certificate provided. It will cost US $0.10 per certificate issued for customers outside of India.
+
 
 ### Other Use cases
 
